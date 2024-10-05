@@ -8,6 +8,6 @@ Mavi Companion is a collaborative community dedicated to fostering open source d
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,django,flask,spring,react,nextjs,mysql,mongodb,nodejs&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,django,flask,spring,nodejs,react,nextjs,mysql,mongodb&theme=dark&perline=7" />
   </a>
 </p>
